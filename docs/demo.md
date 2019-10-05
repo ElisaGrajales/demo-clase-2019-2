@@ -15,6 +15,7 @@ blad blad blad
 ## Subtítulo 3 
 
 [] lista de chequeo 1
+
 [] lista de chequeo 2 
 
 ## Subtítulo 3 
@@ -22,3 +23,6 @@ blad blad blad
 Ecuación: 
 
 $$X^2$$
+
+##así se crea un vínculo
+[https://www.google.com]
